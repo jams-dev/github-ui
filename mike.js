@@ -1,1 +1,3 @@
-export function mike(){}
+export function mike(name) {
+  console.log(name);
+}
