@@ -1,1 +1,1 @@
-### Add new course
+### Add a new course
